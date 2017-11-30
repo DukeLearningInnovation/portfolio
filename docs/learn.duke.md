@@ -2,11 +2,13 @@
 
 ![status](https://img.shields.io/badge/status-good-brightgreen.svg)
 [![repo](https://img.shields.io/badge/repo-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
-team:
-[@profmikegreene](https://github.com/profmikegreene)
-[@LASHirsh](https://github.com/LASHirsh)
+
 
 learn.duke is an attempt at creating a forward thinking learning technology ecosystem for the Duke Community.
+
+### team
+[@profmikegreene](https://github.com/profmikegreene)  
+[@LASHirsh](https://github.com/LASHirsh)
 
 # goals
 ## required
@@ -51,20 +53,13 @@ Prepared by @profmikegreene
 * `/techspec`
 * `/templates`
 * `/wizard`
+* InvisionApp boards created to manage ideation and design
 
 ### Changed
 * readme.md was significantly changed in preparation for and after stakeholder interview Lauren and Michael.
 
-### Depreciated
-* 
-
 ### Removed
 * github issues using `inspiration` label and moved them to invisionapp.
 
-### Fixed
-* 
-
-### Security
-* 
 
 
