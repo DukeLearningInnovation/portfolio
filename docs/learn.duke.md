@@ -1,14 +1,18 @@
 # learn.duke
 
 ![status](https://img.shields.io/badge/status-good-brightgreen.svg)
-[![repo](https://img.shields.io/badge/repo-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
-
+[![repo](https://img.shields.io/badge/repo-github-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
+[![view](https://img.shields.io/badge/view-github.io-blue.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 
 learn.duke is an attempt at creating a forward thinking learning technology ecosystem for the Duke Community.
 
 ### team
 [@profmikegreene](https://github.com/profmikegreene)  
 [@LASHirsh](https://github.com/LASHirsh)
+[@chrislorch](https://github.com/chrislorch)
+[@hrvalli](https://github.com/hrvalli)
+[@joliet](https://github.com/joliet)
+[@JustinJohnsen](https://github.com/JustinJohnsen)
 
 # goals
 ## required
@@ -39,7 +43,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
-* 
+* Final business problem statement
+
+## 2017-12-11 
+Prepared by @profmikegreene
+
+### Added
+* [Box folder](https://duke.app.box.com/folder/42786592308) for storing/collecting private artifacts
+* LTS [business problem creation meeting](https://docs.google.com/document/d/10UtB1I3l5hLsYKTnDOxMT6LvTPQR3x_X47NMkAnGtGM/edit#) to align around the specific and most core problem we want to solve first. This will drive the first MVP.
 
 ## 2017-11-30 
 Prepared by @profmikegreene
