@@ -27,6 +27,7 @@ Each sprint will begin with a sprint planning meeting to check in on progress, o
 Everyone in Learning Innovation is invited to the sprint planning meetings.
 
 ### metrics
+
 metric | details
 ---|---
 assignments graded | measured per sprint. tracks growth. the interaction that provides value to faculty
