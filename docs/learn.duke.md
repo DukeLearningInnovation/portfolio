@@ -4,21 +4,27 @@
 [![repo](https://img.shields.io/badge/repo-github-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 [![view](https://img.shields.io/badge/view-github.io-blue.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 
-learn.duke is an attempt at creating a forward thinking learning technology ecosystem for the Duke Community.
+learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
+
+We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, the LMS, or use unsupported tools - even when a supported alternative exists. 
+
+How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools? 
+
+How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
 
 ### team
 [@profmikegreene](https://github.com/profmikegreene)  
-[@LASHirsh](https://github.com/LASHirsh)
-[@chrislorch](https://github.com/chrislorch)
-[@hrvalli](https://github.com/hrvalli)
-[@joliet](https://github.com/joliet)
+[@LASHirsh](https://github.com/LASHirsh)  
+[@chrislorch](https://github.com/chrislorch)  
+[@hrvalli](https://github.com/hrvalli)  
+[@joliet](https://github.com/joliet)  
 [@JustinJohnsen](https://github.com/JustinJohnsen)
 
 # goals
 ## required
 1. Provide a single place for students to see the classes they are in, access the tools those classes are using
 1. Present faculty with a catalogue of learning technologies for use in their courses with search, sort, and filter options.
-1. Provide a single place for faculty to membership and technologies for their courses.
+1. Provide a single place for faculty to manage membership and technologies for their courses.
 1. Provide information and workflows on learning technology management and policies. 
 	* LearnTAC
 	* process for how tools get added to apps
@@ -43,7 +49,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
-* Final business problem statement
+
+## 2017-12-31
+Prepared by @profmikegreene
+
+### Added
+* approved problem statement
 
 ## 2017-12-11 
 Prepared by @profmikegreene

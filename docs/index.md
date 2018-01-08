@@ -53,7 +53,7 @@
 ### Done
 
 ## Michael
-* [gradescope pilot](gradescope pilot)
+* [gradescope pilot](gradescope.md)
 * [learn.duke](learn.duke)
 * [open source comparison](open source comparison)
 * [hosting change for Duke Extend](hosting change for Duke Extend)

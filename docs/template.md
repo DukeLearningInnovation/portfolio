@@ -28,7 +28,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
-* 
+* Shibboleth integration
 
 ## yyyy-mm-dd 
 Prepared by @profmikegreene
