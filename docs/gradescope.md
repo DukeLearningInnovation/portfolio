@@ -13,7 +13,9 @@ Gradescope began offering an institutional service in summer 2017 and Learning I
 @EdGomes  
 
 # goals
-1. distribute use of gradescope to __ departments beyond Computer Science
+1. distribute use of gradescope to __ /58 departments 
+
+This goal was selected to measure the broad adoption of Gradescope at Duke. Widespread use of Gradescope across many departments is an effective use of enterprise licensing.
 
 # project management
 This project is the responsibility of the entire Learning Innovation department, everyone plays some small role in increasing adoption. 
@@ -28,8 +30,8 @@ Everyone in Learning Innovation is invited to the sprint planning meetings.
 metric | details
 ---|---
 assignments graded | measured per sprint. tracks growth. the interaction that provides value to faculty
-new active departments | measured per sprint. tracks progress towards project goal
-total gradescope students / FTE | measured per sprint. tracks how close we are to reaching at cost using enterprise vs per-user licensing
+new active departments / 58 | measured per sprint. tracks progress towards project goal. 58 is the number of departments defined in Learning Innovation's department liaison box note on 1/8/18
+total gradescope students / 15,192 | measured per sprint. tracks how close we are to reaching at cost using enterprise vs per-user licensing. 15,192 is Duke's total students reported on facts.duke.edu on 1/8/18
 happy users / total users | measured per sprint. tracks user satisfaction
 
 
@@ -41,7 +43,7 @@ assignments graded per department per sprint | combines the first two primary me
 consults / new gradescope faculty | tracks potential pedagogical impact of the project
 New active users per sprint | tracks growth
 new assignments this sprint / total assignments | tracks growth
-new gradescope students / FTE | tracks progress towards reaching at cost vs per user licensing
+new gradescope students / 15,192  | tracks progress towards reaching at cost vs per user licensing. 15,192 is Duke's total students reported on facts.duke.edu on 1/8/18
 new students / total gradescope students | tracks growth
 faculty with more than 1 assignment per sprint | tracks recurring user growth
 faculty with assignments in back to back sprints per sprint | tracks recurring user growth
