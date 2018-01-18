@@ -8,14 +8,14 @@
 description
 
 ### team
-[@profmikegreene](https://github.com/profmikegreene)  
+[@user](https://relevantuserlink)  
 
 
 # goals
 1. 
 
 
-# changelog 
+# history 
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
@@ -28,10 +28,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
-* Shibboleth integration
+* 
 
 ## yyyy-mm-dd 
-Prepared by @profmikegreene
+Prepared by @user
 
 ### Added
 * 

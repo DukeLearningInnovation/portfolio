@@ -4,23 +4,23 @@
 
 Gradescope is a grading workflow application that saves faculty time spent in the grading process while creating stronger student assessment through standardized rubrics.
 
-During the 2017 Learning Innovation Fellows program, it was discovered that Gradescope had gained popularity on campus in Computer Science and many faculty in that program were immediately interested upon seeing it for the first time.
-
-Gradescope began offering an institutional service in summer 2017 and Learning Innovation negotiated a contract for pilot in fall 2017.
-
 ### team
 @DukeLearning  
 @EdGomes  
+@compsci    
 
 # goals
-1. distribute use of gradescope to __ /58 departments 
+1. distribute use of gradescope to many disciplines across the university in order to effectively use enterprise vs user licensing.
 
 This goal was selected to measure the broad adoption of Gradescope at Duke. Widespread use of Gradescope across many departments is an effective use of enterprise licensing.
 
 # project management
+Product Owner - Learning Innovation Admin Team
+Scrummaster - Michael Greene
+
 This project is the responsibility of the entire Learning Innovation department, everyone plays some small role in increasing adoption. 
 
-The project is managed via 2-4 week sprints.
+The project is managed via 4 week sprints.
 
 Each sprint will begin with a sprint planning meeting to check in on progress, obstacles, metrics, and decide next steps for the upcoming sprint.
 
@@ -53,6 +53,10 @@ faculty with assignments in back to back sprints per sprint | tracks recurring u
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+* sprint planning agenda and invitations
+
+## 2018-01-22
+### Added
 * Shibboleth integration
 
 ## 2018-01-08
@@ -64,4 +68,10 @@ Prepared by @profmikegreene
 ### Security
 * OIT Security review and signed contract can be found in Box.
 
+## 2017-09-01
+prepared by @profmikegreene
 
+### Changed
+During the 2017 Learning Innovation Fellows program, it was discovered that Gradescope had gained popularity on campus in Computer Science and many faculty in that program were immediately interested upon seeing it for the first time.
+
+Gradescope began offering an institutional service in summer 2017 and Learning Innovation negotiated a contract for pilot in fall 2017.
