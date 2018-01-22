@@ -6,12 +6,6 @@
 
 learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
 
-We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, the LMS, or use unsupported tools - even when a supported alternative exists. 
-
-How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools? 
-
-How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
-
 ### team
 [@profmikegreene](https://github.com/profmikegreene)  
 [@LASHirsh](https://github.com/LASHirsh)  
@@ -21,20 +15,15 @@ How might learn.duke encourage our learning communities to more frequently use t
 [@JustinJohnsen](https://github.com/JustinJohnsen)
 
 # goals
-## required
-1. Provide a single place for students to see the classes they are in, access the tools those classes are using
-1. Present faculty with a catalogue of learning technologies for use in their courses with search, sort, and filter options.
-1. Provide a single place for faculty to manage membership and technologies for their courses.
-1. Provide information and workflows on learning technology management and policies. 
-	* LearnTAC
-	* process for how tools get added to apps
-	* minimum requirements rubric from LTS, ITSO, procurement, accessibility, etc
-	* provide a single point of contact for vendors and users to start the process of adding an app
+learn.duke displays to learners a unified interface for accessing the instructional tools used by their learning communities.
 
-## stretch
-1. Let know what they should do next for those classes.
-1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
-1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
+We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, like email or the LMS, which aren’t the best learning tool for all aspects of a learning community or use unsupported tools - even when a supported alternative exists.
+
+How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools?
+
+How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
+
+Answering these questions are the current goals for learn.duke
 
 # changelog 
 All notable changes to this project will be documented in this file.
@@ -50,6 +39,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## 2018-01-22
+Prepared by @profmikegreene
+
+### Added
+* [DWS Discovery report](https://docs.google.com/document/d/1BAgwbx_gJmZrFT-6VP7GJz17KK_4n9fjddYtvqQ3SnQ/edit?usp=drive_web) from Lauren Hirsh drafted and sent to project team and stakeholders
 ## 2017-12-31
 Prepared by @profmikegreene
 
