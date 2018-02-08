@@ -15,7 +15,7 @@ Gradescope is a grading workflow application that saves faculty time spent in th
 This goal was selected to measure the broad adoption of Gradescope at Duke. Widespread use of Gradescope across many departments is an effective use of enterprise licensing.
 
 # project management
-Product Owner - Learning Innovation Admin Team
+Product Owner - Learning Innovation Admin Team  
 Scrummaster - Michael Greene
 
 As grading is universal across the university, this project is the responsibility of the entire Learning Innovation department, everyone plays some small role in increasing adoption. 

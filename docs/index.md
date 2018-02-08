@@ -2,10 +2,10 @@
 
 ## Chris
 * [sakai service](sakai)
-* [playposit service](playposit)
-* [sakai camp](sakaicommunity)
 * [cisco/sakai integration](ciscosakaiintegration)
 * [modernize sakai forums](sakaicommunity)
+* [crowdmark lti](crowdmarklti)
+* [playposit service](playposit)
 * [agile project management](agileprojectmanagement)
 * [instructional design certificate](instructionaldesigncertificate)
 * [duke extend service](dukeextend)
@@ -14,6 +14,7 @@
 
 ### Done
 * [chalk & wire/sakai integration](chalk&wiresakaiintegration)
+* [sakai camp](sakaicommunity)
 
 ## Heather
 * [coursera service](coursera)
@@ -31,7 +32,7 @@
 ## Jolie
 * [duke sakai service](sakai)
 * [sakai 12 release](sakaicommunity)
-* [sakai ui inventory](sakaiuiinventory)
+* [sakai ui inventory](sakai-ui-inventory-project)
 * [sakai support documentation](sakaisupportdocumentation)
 * [oer grant](oergrant)
 * [duke sakai 12.x upgrade](sakai12upgrade)
@@ -63,7 +64,6 @@
 ## Michael
 * [gradescope pilot](gradescope)
 * [learn.duke](learn.duke)
-* [eli18 conference](educauseeliconference)
 * [educause18 proposal](educauseconference)
 * [open apereo 18 proposal](openapereoconference)
 * [tech expo proposal](techexpoconference)
@@ -81,6 +81,7 @@
 * [sakai 11 skin](sakai11skin)
 
 ### Done
+* [eli18 conference](educauseeliconference)
 * [american uni NGDLE conference](aungdleconference)
 * [polleverywhereexploration](polleverywhere)
 * [extend modify grade report](extendmodifygradereport)
@@ -89,6 +90,7 @@
 * [nursing best of breed assessment tools](bobassessmentnursing)
 
 ## Backlog
+
 * [authorea (ONR grant/gitpaper)](onrgrant)
 * [wordpress lti](wordpresslti)
 * [domain of one's own exploration](dooo)
