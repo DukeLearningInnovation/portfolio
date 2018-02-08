@@ -18,7 +18,7 @@
 ## Heather
 * [coursera service](coursera)
 * [duke extend service](dukeextend)
-* [nudge](nudge)
+* [nudge](/portfolio/projects/3)
 * [stanford civics](stanfordcivics)
 * [glhlth777](glhlth777)
 * [javascript course](javascriptcourse)
