@@ -20,13 +20,16 @@
 * [coursera service](coursera)
 * [duke extend service](dukeextend)
 * [nudge](nudge)
+* [grammarly pilot](grammarly)
+* [liulishuo pilot](liulishuo)
 * [stanford civics](stanfordcivics)
 * [glhlth777](glhlth777)
 * [javascript course](javascriptcourse)
 * [sites@duke service](sites@duke)
-* [online workflow sprint](onlineworkflowsprint)
+
 
 ### Done
+* [online workflow sprint](onlineworkflowsprint)
 * [teachx project](teachx)
 
 ## Jolie
@@ -36,6 +39,7 @@
 * [sakai support documentation](sakaisupportdocumentation)
 * [oer grant](oergrant)
 * [duke sakai 12.x upgrade](sakai12upgrade)
+* [ltc meeting](ltcmeetings)
 * [sakai community ngdle discussions](sakaicommunityngdlediscussions)
 * [duke sakai mobile](sakaimobile)
 * [User Interface Design](uidesigngraduatecourse)
@@ -49,6 +53,7 @@
 * [duke extend service](extend)
 * [learn.duke](learn.duke)
 * [lts consulting](ltsconsulting)
+* [ltc meeting](ltcmeetings)
 * [coursera conference](courseraconference)
 * [nudge learning analytics](nudgelearninganalytics)
 * [open edx conference](openedxconference)
@@ -89,6 +94,7 @@
 * [Sakai/SISS Comparison](sakai-siss-comparison.md)
 * [nursing best of breed assessment tools](bobassessmentnursing)
 
+
 ## Backlog
 
 * [authorea (ONR grant/gitpaper)](onrgrant)
@@ -98,6 +104,8 @@
 * [warpwire service](warpwire)
 * [toolkits service](toolkits)
 * [piazza service](piazza)
+* [docs.sakaiproject.org](sakaicommunity)
+* [sakai support chatbot](sakaichatbot)
 * [lts out of office checklist](ltsoutofofficechecklist)
 * [dlx nursing dean's course](dlxnursingdean)
 * [dlx nursing michael's course](dlxnursingmichael)

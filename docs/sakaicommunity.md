@@ -1,21 +1,18 @@
-# Duke Sakai 12 Upgrade
+# Sakai Community
 
 ![status](https://img.shields.io/badge/status-good-brightgreen.svg)
 [![repo](https://img.shields.io/badge/repo-box-orange.svg)]()
-[![view](https://img.shields.io/badge/view-tableau-blue.svg)]()
 
 
-Upgrade Duke's Sakai dev, test, and production environments to 12.1 on May 13,2018.
+All interactions with the Sakai community. Major project we're leading that have specific goals and deliverables may have separate pages.
 
 ### team
 @joliet  
 @chrislorch  
-@profmikegreene  
-
+@profmikegreene
 
 # goals
-1. Contribute to the community release of sakai 12.0 and 12.1 in order to meet our internal upgrade schedule
-1. Upgrade Duke's dev, test, and production environments to Sakai 12.1
+1. 
 
 
 # history 
@@ -34,11 +31,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 * 
 
 ## 2018-02-08 
-Prepared by @profmikegreene, @joliet, @chrislorch
+Prepared by @profmikegreene
 
 ### Added
-* Chris attended Sakai Camp and received an [updated release schedule](https://docs.google.com/spreadsheets/d/1mvpsEPMvAoeunrWMA5iSNCQP6Coqodo3seiAZYC68Nk/edit#gid=0) for Sakai 12
-* Sakai 12.0RC01 released in December
+* @chrislorch attend [Sakai Camp](https://docs.google.com/document/d/1VwTOn5_9I8OIY38chC3Sn_vRNZv5vrh-MLWi4lFrxZw/edit#heading=h.nys0ffyzlig3) 1/22/18 - 1/24/18
 
 ### Changed
 * 
