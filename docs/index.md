@@ -1,6 +1,7 @@
 # Duke Learning Innovation Portfolio
 
 ## Chris
+
 * [sakai service](sakai)
 * [cisco/sakai integration](ciscosakaiintegration)
 * [modernize sakai forums](sakaicommunity)
@@ -13,10 +14,12 @@
 * [hypothes.is/sakai integration](hypothesissakaiintegration)
 
 ### Done
+
 * [chalk & wire/sakai integration](chalk&wiresakaiintegration)
 * [sakai camp](sakaicommunity)
 
 ## Heather
+
 * [coursera service](coursera)
 * [duke extend service](dukeextend)
 * [nudge](nudge)
@@ -27,12 +30,13 @@
 * [javascript course](javascriptcourse)
 * [sites@duke service](sites@duke)
 
-
 ### Done
+
 * [online workflow sprint](onlineworkflowsprint)
 * [teachx project](teachx)
 
 ## Jolie
+
 * [duke sakai service](sakai)
 * [sakai 12 release](sakaicommunity)
 * [sakai ui inventory](sakai-ui-inventory-project)
@@ -45,9 +49,11 @@
 * [User Interface Design](uidesigngraduatecourse)
 
 ### Done
+
 * [ux graduate course](uxgraduatecourse)
 
 ## Justin
+
 * [extend needs assessment](extendneedsassessment)
 * [coursera service](coursera)
 * [duke extend service](extend)
@@ -59,6 +65,7 @@
 * [open edx conference](openedxconference)
 
 ### Done
+
 * [introastro launch](introastro)
 * [role changes](justinrolechanges)
 * [un sustainable development goals](unsustainabledevelopmentgoals)
@@ -67,6 +74,7 @@
 * [dlx nursing](dlxnursing)
 
 ## Michael
+
 * [gradescope pilot](gradescope)
 * [learn.duke](learn.duke)
 * [educause18 proposal](educauseconference)
@@ -86,6 +94,7 @@
 * [sakai 11 skin](sakai11skin)
 
 ### Done
+
 * [eli18 conference](educauseeliconference)
 * [american uni NGDLE conference](aungdleconference)
 * [polleverywhereexploration](polleverywhere)
@@ -94,10 +103,9 @@
 * [Sakai/SISS Comparison](sakai-siss-comparison.md)
 * [nursing best of breed assessment tools](bobassessmentnursing)
 
-
 ## Backlog
 
-* [authorea (ONR grant/gitpaper)](onrgrant)
+* [authorea \(ONR grant/gitpaper\)](onrgrant)
 * [wordpress lti](wordpresslti)
 * [domain of one's own exploration](dooo)
 * [voicethread service](voicethread)
@@ -114,4 +122,6 @@
 * [library services/sakai integration](librarysakaiintegration)
 * [artificial intelligence events fy19](aieventsfy19)
 * [cengage + OER textbook subscription](textbooksubscription)
+
+
 
