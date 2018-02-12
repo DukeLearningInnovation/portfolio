@@ -17,7 +17,6 @@ Duke Learning Innovation staff can follow these instructions to update their pro
 6. Commit changes
 7. Pull Request
 
-[docs/index.md](/docs/index.md "Index")
 
 
 
