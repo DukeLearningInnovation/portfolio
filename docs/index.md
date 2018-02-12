@@ -2,10 +2,10 @@
 
 ## Chris
 * [sakai service](sakai)
-* [playposit service](playposit)
-* [sakai camp](sakaicommunity)
 * [cisco/sakai integration](ciscosakaiintegration)
 * [modernize sakai forums](sakaicommunity)
+* [crowdmark lti](crowdmarklti)
+* [playposit service](playposit)
 * [agile project management](agileprojectmanagement)
 * [instructional design certificate](instructionaldesigncertificate)
 * [duke extend service](dukeextend)
@@ -14,27 +14,32 @@
 
 ### Done
 * [chalk & wire/sakai integration](chalk&wiresakaiintegration)
+* [sakai camp](sakaicommunity)
 
 ## Heather
 * [coursera service](coursera)
 * [duke extend service](dukeextend)
-* [nudge](/portfolio/projects/3)
+* [nudge](nudge)
+* [grammarly pilot](grammarly)
+* [liulishuo pilot](liulishuo)
 * [stanford civics](stanfordcivics)
 * [glhlth777](glhlth777)
 * [javascript course](javascriptcourse)
 * [sites@duke service](sites@duke)
-* [online workflow sprint](onlineworkflowsprint)
+
 
 ### Done
+* [online workflow sprint](onlineworkflowsprint)
 * [teachx project](teachx)
 
 ## Jolie
 * [duke sakai service](sakai)
 * [sakai 12 release](sakaicommunity)
-* [sakai ui inventory](sakaiuiinventory)
+* [sakai ui inventory](sakai-ui-inventory-project)
 * [sakai support documentation](sakaisupportdocumentation)
 * [oer grant](oergrant)
 * [duke sakai 12.x upgrade](sakai12upgrade)
+* [ltc meeting](ltcmeetings)
 * [sakai community ngdle discussions](sakaicommunityngdlediscussions)
 * [duke sakai mobile](sakaimobile)
 * [User Interface Design](uidesigngraduatecourse)
@@ -48,6 +53,7 @@
 * [duke extend service](extend)
 * [learn.duke](learn.duke)
 * [lts consulting](ltsconsulting)
+* [ltc meeting](ltcmeetings)
 * [coursera conference](courseraconference)
 * [nudge learning analytics](nudgelearninganalytics)
 * [open edx conference](openedxconference)
@@ -63,7 +69,6 @@
 ## Michael
 * [gradescope pilot](gradescope)
 * [learn.duke](learn.duke)
-* [eli18 conference](educauseeliconference)
 * [educause18 proposal](educauseconference)
 * [open apereo 18 proposal](openapereoconference)
 * [tech expo proposal](techexpoconference)
@@ -81,6 +86,7 @@
 * [sakai 11 skin](sakai11skin)
 
 ### Done
+* [eli18 conference](educauseeliconference)
 * [american uni NGDLE conference](aungdleconference)
 * [polleverywhereexploration](polleverywhere)
 * [extend modify grade report](extendmodifygradereport)
@@ -88,7 +94,9 @@
 * [Sakai/SISS Comparison](sakai-siss-comparison.md)
 * [nursing best of breed assessment tools](bobassessmentnursing)
 
+
 ## Backlog
+
 * [authorea (ONR grant/gitpaper)](onrgrant)
 * [wordpress lti](wordpresslti)
 * [domain of one's own exploration](dooo)
@@ -96,6 +104,8 @@
 * [warpwire service](warpwire)
 * [toolkits service](toolkits)
 * [piazza service](piazza)
+* [docs.sakaiproject.org](sakaicommunity)
+* [sakai support chatbot](sakaichatbot)
 * [lts out of office checklist](ltsoutofofficechecklist)
 * [dlx nursing dean's course](dlxnursingdean)
 * [dlx nursing michael's course](dlxnursingmichael)
