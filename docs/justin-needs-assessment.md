@@ -8,11 +8,13 @@
 description
 
 ### team
-[@user](https://relevantuserlink)  
+[@JustinJohnsen](https://learninginnovation.duke.edu/who-we-are/johnsen/)  
 
 
 # goals
-1. 
+1. Compare current best fit candidates for Duke Extend online learning experiences based on authentic criteria.
+2. Recommend course of action to administration to either remain with Open edX or switch to a different platform.
+3. Document needs assessment and comparison for future use.
 
 
 # history 
@@ -21,17 +23,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 `Added` for new features.
+
 `Changed` for changes in existing functionality.
+
 `Depreciated` for soon-to-be removed features.
+
 `Removed` for now removed features.
+
 `Fixed` for any bug fixes.
+
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
 * 
 
-## yyyy-mm-dd 
-Prepared by @user
+## 2018-02-14 
+Prepared by @JustinJohnsen
 
 ### Added
 * 
