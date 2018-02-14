@@ -50,7 +50,7 @@ All notable changes to this project will be documented in this file.
 ## 2018-02-14
 Prepared by @profmikegreene
 ### Added
-* 2 internal trainings for Learning Innovation Staff and [2/21/18 training open to Duke Community](https://duke.libcal.com/event/3995814) scheduled.
+* Training for Learning Innovation Staff and [2/21/18 Duke Community](https://duke.libcal.com/event/3995814) scheduled.
 * @edgomes, @shawnj55, and @profmikegreene met with Jon Mattingly and Yu Yunliang from Math to discuss their [Crowdmark](https://crowdmark.com) pilot.
 * @chrislorch exploring LTI integration with Crowdmark
 
