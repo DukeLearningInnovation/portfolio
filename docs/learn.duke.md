@@ -1,7 +1,7 @@
 # learn.duke
 
 ![status](https://img.shields.io/badge/status-good-brightgreen.svg)
-[![repo](https://img.shields.io/badge/repo-github-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
+[![contribute](https://img.shields.io/badge/contribute-github-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 [![view](https://img.shields.io/badge/view-github.io-blue.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 
 learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
@@ -38,12 +38,22 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
+* @lashirsh and @profmikegreene present learn.duke to ITAC on 2/22/18
+
+## 2018-02-14
+Prepared by @profmikegreene
+
+### Added
+* A university-level marketing campaign is going to use learn.duke.edu and the project will have to be rebranded.
+* Matthew Rascoff and Shawn Miller presented learn.duke as part of a series of learning innovation projects to senior academic leadership at the university.
+* @profmikegreene [presented learn.duke at EDUCAUSE ELI](https://profmikegreene.github.io/conference-proposals/accepted/eli-18.html) and submitted proposals to EDUCAUSE18 and Open Apereo 18.
 
 ## 2018-01-22
 Prepared by @profmikegreene
 
 ### Added
 * [DWS Discovery report](https://docs.google.com/document/d/1BAgwbx_gJmZrFT-6VP7GJz17KK_4n9fjddYtvqQ3SnQ/edit?usp=drive_web) from Lauren Hirsh drafted and sent to project team and stakeholders
+
 ## 2017-12-31
 Prepared by @profmikegreene
 
