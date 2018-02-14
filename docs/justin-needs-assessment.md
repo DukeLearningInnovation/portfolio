@@ -1,19 +1,19 @@
 # Duke Extend Platform Needs Assessment
 
-![status](https://img.shields.io/badge/status-good-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-good-brightgreen.svg)
 
+## Descrition of the project
 The platform needs assessment project for Duke Extend is considering 1) critical criteria that are must-have features, 2) differentiating criteria that are highly valued but can strike a balance between platform strengths and deficits, and 3) optional criteria that would be of interest to our team but would not be used for final decision-making.
 
-### team
+### Project team
 [@JustinJohnsen](https://learninginnovation.duke.edu/who-we-are/johnsen/)  
 
-
-# goals
+### Project goals
 1. Compare current best fit candidates for Duke Extend online learning experiences based on authentic criteria.
 2. Recommend course of action to administration to either remain with Open edX or switch to a different platform.
 3. Document needs assessment and comparison for future use.  
 
-# Criteria collection and classification
+## Criteria collection and classification
 
 Our criteria have evolved over time. Our initial set of criteria was drawn from a previous platform comparison set of use cases, our own use cases after implementing the Open edX platform, and additional new ideas for use cases based on potential or desired projects that had not yet been initiated. Our Duke Extend service team reviewed this list of criteria and gave each a +1/0/-1 vote. That list is in Google Drive:  https://docs.google.com/spreadsheets/d/1Efgz2Ym4mH0VjPFme6sedj2eyDtl8nSCHFUb1xoYJ6s/edit?usp=sharing
 
@@ -121,21 +121,21 @@ Based on our team conversation about these criteria, we identified that many of 
 
 After further review and discussion, this list was consolidated into new criteria with fewer overlaps between features, listed below. These criteria were written on cards, one criterion per card, and shared with several staff in Learning Innovation to gain their perspectives about the importance of each. Participants were asked to identify critical criteria or non-essential criteria; all remaining criteria were considered as 'differentiating'. After eight participants contributed their input, the criteria were ranked and classified. Upvotes were based on a participant identifying a criterion as 'critical' and downvotes were based on a participant identifying a criterion as 'unnecessary' or 'non-essential'. After the exercise, participants were each asked two questions. What guiding principles did you rely on to make your classifications? What, if any, additional criteria would you suggest we consider for this platform comparison?
 
-## Critical
+### Critical
 * +8/8  Satisfy university accessibility requirements
 * +7/8  Deliver learning experiences at all scales of audiences
 * +7/8  Integrate with Shibboleth and OneLink for account access and authentication
 * +6/8  Offer a well-designed, modern interface to users
 * +5/8  Control learning experience content options (e.g. course content size, multimedia options, course licensing, importing/exporting content, embedding content)
 
-## Differentiating
+### Differentiating
 * +4/8  Offer sophisticated assessment options beyond pure MCQs
 * +3/8  (4 upvotes; 1 downvote) Provide detailed learning analytics in usable format(s)
 * +3/8  Two-way integrate with external platforms and tools
 * +2/8  (3 up; 1 down) Facilitate quality group/team work among learners
 * +2/8  (3 up; 1 down) Offer a high quality mobile interface learning experience
 
-## Non-essential
+### Non-essential
 * 0/8  (2 up; 2 down) Control learning experience delivery options (e.g. course timing, payment & certification, course layout, user experience flow through course, gamification, project partnerships)
 * 0/8  (3 up; 3 down) Make the platform Duke-branded (white label)
 * 0/8  (1 up; 1 down) Facilitate quality community building among learners
@@ -145,7 +145,7 @@ After further review and discussion, this list was consolidated into new criteri
 * -2/8  (1 up; 3 down) Control learning experience support options (maintenance, issue tracking, platform updates, available APIs, standard I/O formats)
 * -2/8  (1 up; 3 down) Facilitate sharing of learner-created content in platform and on social media
 
-## Additional suggested criteria
+### Additional suggested criteria
 * Offer clean data exports; 
 * Use an established platform/vendor; 
 * Use a platform based on open source code; 
@@ -153,7 +153,7 @@ After further review and discussion, this list was consolidated into new criteri
 * Offer a platform that is distinct in application from Sakai (and Coursera)
 
 
-# Candidate selection
+## Candidate selection
 
 Our Duke Extend service team's initial list of candidate platforms included:
 * Tsugi
@@ -185,11 +185,11 @@ Following more discussion with the Duke Extend service team and the Learning Tec
 * Schoology
 * LearnDash WP plug-in
 
-# Sprint evaluations of candidate platforms
+## Sprint evaluations of candidate platforms
 
 
 
-# history 
+## history 
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
@@ -206,31 +206,32 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 `Security` in case of vulnerabilities.
 
-## [Unreleased]
+### [Unreleased]
 * 
 
-## 2018-02-14 
+### 2018-02-14 
 Prepared by @JustinJohnsen
 
-### Added
+#### Added
 * Goals for the project
 * Personal id and contact info
 * Summary of steps taken to identify critical, differentiating, and non-essential criteria
 * List of original and remaining viable candidates
 
-### Changed
+#### Changed
 * Spacing for changelog descriptors
 
-### Deprecated
+#### Deprecated
 * 
 
-### Removed
+#### Removed
 * Two status shields
 
-### Fixed
+#### Fixed
 * Spelling of deprecated/depreciated
+* Headers
 
-### Security
+#### Security
 * 
 
 
