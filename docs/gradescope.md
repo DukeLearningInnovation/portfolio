@@ -1,6 +1,8 @@
 # Gradescope
 
-![status](https://img.shields.io/badge/status-pilot-brightgreen.svg)
+![schedule](https://img.shields.io/badge/schedule-good-brightgreen.svg)
+![scope](https://img.shields.io/badge/scope-good-brightgreen.svg)
+![budget](https://img.shields.io/badge/budget-good-brightgreen.svg)
 
 Gradescope is a grading workflow application that saves faculty time spent in the grading process while creating stronger student assessment through standardized rubrics.
 
@@ -37,25 +39,23 @@ new active departments / 207 | measured per sprint. tracks progress towards proj
 new gradescope students / 15,192  | measured per sprint. tracks progress towards reaching at cost vs per user licensing. 15,192 is Duke's total students reported on facts.duke.edu on 1/8/18
 happy users / total users | measured per sprint. tracks user satisfaction
 
-
-**secondary metrics**
-
-metric | details
----|---
-assignments graded per department per sprint | combines the first two primary metrics, could be a possible replacement for them
-consults / new gradescope faculty | tracks potential pedagogical impact of the project
-New active users per sprint | tracks growth
-new assignments this sprint / total assignments | tracks growth
-total gradescope students / 15,192 | measured per sprint. tracks how close we are to reaching at cost using enterprise vs per-user licensing. 15,192 is Duke's total students reported on facts.duke.edu on 1/8/18
-faculty with more than 1 assignment per sprint | tracks recurring user growth
-faculty with assignments in back to back sprints per sprint | tracks recurring user growth
-
 # history 
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-* sprint planning agenda and invitations
-* 
+* New user workflow via shibboleth scheduled for early March.
+* First sprint planning meeting 2/19/18
+* Tableau visualization for measuring metrics
+
+## 2018-02-14
+Prepared by @profmikegreene
+### Added
+* 2 internal trainings for Learning Innovation Staff and [2/21/18 training open to Duke Community](https://duke.libcal.com/event/3995814) scheduled.
+* @edgomes, @shawnj55, and @profmikegreene met with Jon Mattingly and Yu Yunliang from Math to discuss their [Crowdmark](https://crowdmark.com) pilot.
+* @chrislorch exploring LTI integration with Crowdmark
+
+### Security
+* [Shibboleth Integration 1.0](https://gradescope.com/help#help-center-item-faq-sso) for current users released. 
 
 ## 2018-01-22
 Prepared by @profmikegreene
