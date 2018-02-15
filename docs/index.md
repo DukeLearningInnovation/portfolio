@@ -54,7 +54,7 @@
 
 ## Justin
 
-* [extend needs assessment](extendneedsassessment)
+* [extend needs assessment](extend-needs-assessment)
 * [coursera service](coursera)
 * [duke extend service](extend)
 * [learn.duke](learn.duke)
