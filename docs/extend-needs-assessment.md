@@ -7,6 +7,7 @@ The platform needs assessment project for Duke Extend is considering 1) critical
 
 ### Project team
 [@JustinJohnsen](https://learninginnovation.duke.edu/who-we-are/johnsen/)  
+Michael Greene
 
 ### Project goals
 1. Compare current best fit candidates for Duke Extend online learning experiences based on authentic criteria.
