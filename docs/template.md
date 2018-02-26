@@ -1,6 +1,6 @@
 # TITLE
 
-![status](https://img.shields.io/badge/status-good-brightgreen.svg)
+[![status](https://img.shields.io/badge/status-good-brightgreen.svg)]()
 [![repo](https://img.shields.io/badge/repo-box-orange.svg)]()
 [![view](https://img.shields.io/badge/view-tableau-blue.svg)]()
 
@@ -8,7 +8,7 @@
 description
 
 ### team
-[@user](https://relevantuserlink)  
+@user
 
 
 # goals
