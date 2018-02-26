@@ -1,6 +1,6 @@
 # Duke Extend Platform Needs Assessment
 
-![Status](https://img.shields.io/badge/status-good-brightgreen.svg)
+[![Status](https://img.shields.io/badge/status-good-brightgreen.svg)]()
 
 ## Descrition of the project
 The platform needs assessment project for Duke Extend is considering 1) critical criteria that are must-have features, 2) differentiating criteria that are highly valued but can strike a balance between platform strengths and deficits, and 3) optional criteria that would be of interest to our team but would not be used for final decision-making.
