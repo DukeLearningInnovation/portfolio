@@ -1,4 +1,4 @@
-# portfolio
+# [portfolio](https://github.com/dukelearninginnovation/portfolio)
 
 Provides at a glance view of all Duke Learning Innovation projects with some contextual meaning and status updates for sharing.
 
