@@ -10,7 +10,6 @@ Gradescope is a grading workflow application that saves faculty time spent in th
 @DukeLearning  
 @EdGomes  
 @compsci    
-@OIT
 
 # goals
 1. distribute use of gradescope to many disciplines across the university in order to effectively use enterprise vs user licensing.
