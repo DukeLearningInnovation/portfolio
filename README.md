@@ -2,6 +2,8 @@
 
 Provides at a glance view of all Duke Learning Innovation projects with some contextual meaning and status updates for sharing.
 
+Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://dukelearninginnovation.github.io/portfolio)
+
 
 ## Chris
 

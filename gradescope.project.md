@@ -35,7 +35,7 @@ The project backlog is managed in [the EP: Gradescope basecamp](https://3.baseca
 metric | details
 ---|---
 assignments graded | measured per sprint. tracks growth. the interaction that provides value to faculty
-new active departments / 207 | measured per sprint. tracks progress towards project goal. 206 is the number of disciplines in the SISS feed for Spring 18
+new active departments / 207 | measured per sprint. tracks progress towards project goal. 207 is the number of disciplines in the SISS feed for Spring 18
 new gradescope students / 15,192  | measured per sprint. tracks progress towards reaching at cost vs per user licensing. 15,192 is Duke's total students reported on facts.duke.edu on 1/8/18
 happy users / total users | measured per sprint. tracks user satisfaction
 
