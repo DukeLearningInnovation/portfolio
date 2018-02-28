@@ -83,6 +83,8 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [gradescope pilot](gradescope.project)
 * [learn.duke](learn.duke.project)
 * [portfolio](/)
+* [Broome Course](broome.course)
+* [DUSON LMS Eval](duson.lms.eval.project)
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
 * [compsci290.sp18 web dev collaboration]
 * [open source comparison]
@@ -108,7 +110,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ## Backlog
 
-* [Broome DLX]
+
 * [Zychowicz DLX]
 * [authorea \(ONR grant/gitpaper\)]
 * [voicethread service]
