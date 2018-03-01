@@ -59,7 +59,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ## Justin
 
-* [extend needs assessment](extend.needs.assessment.project.md)
+* [extend needs assessment](extend.needs.assessment.project)
 * [coursera service](coursera.support.service)
 * [duke extend service](extend.service)
 * [learn.duke](learn.duke.project)
