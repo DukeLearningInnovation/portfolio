@@ -8,15 +8,18 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 ## Chris
 
 * [sakai service](sakai.service)
-* [cisco/sakai integration]
+* [duke sakai 12.x upgrade](sakai.12.upgrade.project)
 * [modernize sakai forums](sakai.community)
 * [crowdmark integration]
 * [playposit service](playposit.service)
+* [hypothes.is integration]
+* [zoom integration]
 * [agile project management]
 * [instructional design certificate]
 * [duke extend service](extend.service)
 * [intedashboard integration]
-* [hypothes.is integration]
+* [cisco/sakai integration]
+
 
 ### Done
 
@@ -49,7 +52,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [oer grant]
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
 * [ltc meeting]
-* [sakai community ngdle discussions]()
+* [sakai community ngdle discussions]
 * [duke sakai mobile]
 * [User Interface Design]
 
@@ -66,7 +69,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [lts consulting]
 * [ltc meeting]
 * [coursera conference]
-* [nudge learning analytics]()
+* [nudge learning analytics]
 * [open edx conference]
 
 ### Done
@@ -82,6 +85,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [gradescope pilot](gradescope.project)
 * [learn.duke](learn.duke.project)
+* [extend needs assessment - strategy team](extend.needs.assessment.project)
 * [portfolio](/)
 * [Broome Course](broome.course)
 * [DUSON LMS Eval](duson.lms.eval.project)
@@ -94,7 +98,6 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [sakai gateway]
 * [sakai community involvement](sakai.community)
 * [duke extend skin]
-* [sakai 11 skin]
 
 ### Done
 
@@ -127,6 +130,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [library services/sakai integration]
 * [artificial intelligence events fy19]
 * [cengage + OER textbook subscription]
+* [redshelf integration]
 
 
 
