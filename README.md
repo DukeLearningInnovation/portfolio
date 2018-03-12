@@ -9,11 +9,11 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [sakai service](sakai.service)
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
-* [modernize sakai forums](sakai.community)
 * [crowdmark integration]
+* [zoom integration]
+* [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
 * [hypothes.is integration]
-* [zoom integration]
 * [agile project management]
 * [instructional design certificate]
 * [duke extend service](extend.service)

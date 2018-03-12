@@ -43,9 +43,16 @@ happy users / total users | measured per sprint. tracks user satisfaction
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-* New user workflow via shibboleth scheduled for early March.
-* First sprint planning meeting 2/19/18
 * Tableau visualization for measuring metrics
+* Marketing for paper finals
+
+## 2018-03
+### Added
+* New and returning user workflows for Shibboleth in production
+* @profmikegreene presented Gradescope to ITAC, Physics and Chemistry expressed interest.
+* @consultants suggested targeting classes with over 50 students
+* @profmikegreene reached out to 6 Biology, 5 Chemistry, and 4 Physics after meeting with @consultants. No response at this time
+* @sophia reached out to a Psychology faculty, @randy to Economics, and @andrea to a separate Biology faculty, none of which are interested at this time.
 
 ## 2018-02-14
 Prepared by @profmikegreene
