@@ -33,7 +33,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 `Security` in case of vulnerabilities.
 
 ## [Unreleased]
-* 
+
+## 2018-03
+### Added
+* @profmikegreene created initial 12.0 duke skins
 
 ## 2018-02-08 
 Prepared by @profmikegreene, @joliet, @chrislorch
