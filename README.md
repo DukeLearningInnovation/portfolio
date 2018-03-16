@@ -65,15 +65,17 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [extend needs assessment](extend.needs.assessment.project)
 * [coursera service](coursera.support.service)
 * [duke extend service](extend.service)
+* [ltc meeting]
 * [learn.duke](learn.duke.project)
 * [lts consulting]
-* [ltc meeting]
-* [coursera conference]
+* [Broome Course](broome.course)
 * [nudge learning analytics]
 * [open edx conference]
+* [introastro course]
 
 ### Done
 
+* [coursera conference]
 * [introastro launch]
 * [role changes]
 * [un sustainable development goals]
@@ -87,12 +89,15 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [learn.duke](learn.duke.project)
 * [extend needs assessment - strategy team](extend.needs.assessment.project)
 * [portfolio](/)
-* [Broome Course](broome.course)
 * [DUSON LMS Eval](duson.lms.eval.project)
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
 * [compsci290.sp18 web dev collaboration]
 * [open source comparison]
 * [r&d process]
+* [2017 PEPs]
+* [Team Retreat]
+* [LI Advisory Council]
+* [Undergraduate Research Matcher]
 * [sakai/gitlab integration]
 * [sakai skins]
 * [sakai gateway]
