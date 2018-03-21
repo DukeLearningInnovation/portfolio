@@ -87,6 +87,8 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [learn.duke](learn.duke.project)
 * [extend needs assessment - strategy team](extend.needs.assessment.project)
 * [portfolio](/)
+* [sakai faculty reference group]
+* [DKU SIS integration with Sakai]
 * [Broome Course](broome.course)
 * [DUSON LMS Eval](duson.lms.eval.project)
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
