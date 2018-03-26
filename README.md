@@ -9,11 +9,11 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [sakai service](sakai.service)
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
-* [crowdmark integration]
-* [zoom integration]
+* [crowdmark integration](crowdmark.integration)
+* [zoom integration](zoom.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
-* [hypothes.is integration]
+* [hypothes.is integration](hypothesis.integration)
 * [agile project management]
 * [instructional design certificate]
 * [duke extend service](extend.service)
@@ -23,7 +23,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ### Done
 
-* [chalk & wireintegration]
+* [chalk & wire integration]
 * [sakai camp](sakai.community)
 
 ## Heather
@@ -32,7 +32,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [duke extend service](extend.service)
 * [nudge](nudge.project)
 * [grammarly pilot]
-* [liulishuo pilot]
+* [liulishuo pilot](liolishou.project)
 * [stanford civics](stanford.civics.course)
 * [glhlth777](glhlth.777.course)
 * [javascript course]
@@ -54,7 +54,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [ltc meeting]
 * [sakai community ngdle discussions]
 * [duke sakai mobile]
-* [User Interface Design]
+* [user interface design course]
 
 ### Done
 
