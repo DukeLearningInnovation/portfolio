@@ -106,7 +106,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [open apereo 18 proposal]
 * [educause18 proposal]
 * [eli18 conference]
-* [american uni NGDLE conference]
+* [american university NGDLE conference]
 * [polleverywhereexploration]
 * [extend modify grade report]
 * [extendmodifyengagementreport]
