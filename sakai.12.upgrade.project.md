@@ -3,13 +3,13 @@
 [![scope](https://img.shields.io/badge/scope-good-brightgreen.svg)](https://confluence.sakaiproject.org/display/DOC/Sakai+12+New+Features+by+tool)
 [![schedule](https://img.shields.io/badge/schedule-good-yellowgreen.svg)](https://docs.google.com/spreadsheets/d/1mvpsEPMvAoeunrWMA5iSNCQP6Coqodo3seiAZYC68Nk/edit#gid=0)
 
-Upgrade Duke's Sakai production environment to 12.1 on May 13, 2018. The project milestones are:
+Upgrade Duke's Sakai production environment to 12.1 on May 12, 2018. The project milestones are:
 
 * 12.0 released by March 9
 * Dev environment upgraded by March 19
-* 12.1 released by May 1
+* 12.1 released by April 30
 * Test upgraded by May 6
-* Production upgrade May 13
+* Production upgrade May 12
 
 ### team
 @joliet  
