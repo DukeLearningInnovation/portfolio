@@ -38,6 +38,9 @@ Prepared by @hrvalli
 * Potential pilot test groups identified
 * Outreach plan developed
 * Evaluation plan established
+* Meeting with Bridget Fletcher (Pratt), Chuhan (Liulishou), and Heather for demo of product.
+* Bridget would like to use grad students starting this coming fall as test group. She'd like to give them a chance to use this over the summer as part of their on-boarding. 
+* Heather will send link to form to Bridget week of 4/9. Bridget will send to upcoming Pratt grad students from China week of 4/23. Heather will send names/emails to Chuhan when quota is reached or 4/30, whichever comes first. 
 
 ### Changed
 * 
