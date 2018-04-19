@@ -13,6 +13,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [zoom integration](zoom.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
+* [redshelf integration]
 * [hypothes.is integration](hypothesis.integration)
 * [agile project management]
 * [instructional design certificate]
@@ -122,6 +123,8 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [warpwire service]
 * [toolkits service]
 * [piazza service]
+* [CoCalc exploration]
+* [TeachFX exploration]
 * [docs.sakaiproject.org]
 * [sakai support chatbot]
 * [lts out of office checklist]
@@ -132,7 +135,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [library services/sakai integration]
 * [artificial intelligence events fy19]
 * [cengage + OER textbook subscription]
-* [redshelf integration]
+
 
 
 
