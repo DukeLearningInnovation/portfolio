@@ -9,11 +9,12 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [sakai service](sakai.service)
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
+* [learn.duke](learn.duke.project)
 * [crowdmark integration](crowdmark.integration)
-* [zoom integration](zoom.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
 * [redshelf integration]
+* [zoom integration](zoom.integration)
 * [hypothes.is integration](hypothesis.integration)
 * [agile project management]
 * [instructional design certificate]
@@ -31,6 +32,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [coursera service](coursera.support.service)
 * [duke extend service](extend.service)
+* [duke sakai service](sakai.service)
 * [nudge](nudge.project)
 * [grammarly pilot]
 * [liulishuo pilot](liolishou.project)
@@ -46,26 +48,27 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ## Jolie
 
+* [duke sakai 12.x upgrade](sakai.12.upgrade.project)
+* [sakai support documentation]
 * [duke sakai service](sakai.service)
 * [sakai 12 release](sakai.community)
 * [sakai ui inventory](sakai.ui.inventory.project)
-* [sakai support documentation]
-* [oer grant]
-* [duke sakai 12.x upgrade](sakai.12.upgrade.project)
-* [ltc meeting]
 * [sakai community ngdle discussions]
 * [duke sakai mobile]
 * [user interface design course]
 
 ### Done
 
+* [oer grant]
+* [ltc meeting]
 * [ux graduate course]
 
 ## Justin
 
-* [extend needs assessment](extend.needs.assessment.project)
 * [coursera service](coursera.support.service)
 * [duke extend service](extend.service)
+* [extend needs assessment](extend.needs.assessment.project)
+* [gradescope project](gradescope.project)
 * [learn.duke](learn.duke.project)
 * [lts consulting]
 * [ltc meeting]
@@ -84,26 +87,25 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ## Michael
 
-* [gradescope project](gradescope.project)
 * [learn.duke](learn.duke.project)
-* [extend needs assessment - strategy team](extend.needs.assessment.project)
+* [sakai skins]
+* [sakai gateway]
+* [extend needs assessment - strategy](extend.needs.assessment.project)
+* [gradescope project](gradescope.project)
 * [portfolio](/)
 * [sakai faculty reference group]
-* [DKU SIS integration with Sakai]
-* [Broome Course](broome.course)
 * [DUSON LMS Eval](duson.lms.eval.project)
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
 * [compsci290.sp18 web dev collaboration]
 * [open source comparison]
 * [r&d process]
 * [sakai/gitlab integration]
-* [sakai skins]
-* [sakai gateway]
 * [sakai community involvement](sakai.community)
 * [duke extend skin]
 
 ### Done
 
+* [DKU SIS integration with Sakai]
 * [open apereo 18 proposal]
 * [educause18 proposal]
 * [eli18 conference]
@@ -116,7 +118,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 ## Backlog
 
-
+* [Broome Course](broome.course)
 * [Zychowicz DLX]
 * [authorea \(ONR grant/gitpaper\)]
 * [voicethread service]
