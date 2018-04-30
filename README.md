@@ -13,18 +13,17 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [crowdmark integration](crowdmark.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
-* [redshelf integration]
 * [zoom integration](zoom.integration)
 * [hypothes.is integration](hypothesis.integration)
-* [agile project management]
+* [redshelf integration]
 * [instructional design certificate]
 * [duke extend service](extend.service)
-* [intedashboard integration]
-* [cisco/sakai integration]
 
 
 ### Done
-
+* [intedashboard integration]
+* [agile project management]
+* [cisco/sakai integration]
 * [chalk & wire integration]
 * [sakai camp](sakai.community)
 
