@@ -92,6 +92,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [extend needs assessment - strategy](extend.needs.assessment.project)
 * [gradescope project](gradescope.project)
 * [portfolio](/)
+* [MUSER]
 * [sakai faculty reference group]
 * [DUSON LMS Eval](duson.lms.eval.project)
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
