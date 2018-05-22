@@ -67,16 +67,18 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [coursera service](coursera.support.service)
 * [duke extend service](extend.service)
 * [extend needs assessment](extend.needs.assessment.project)
+* [MIDS Online Review]
+* [DukeVen DLX]
 * [gradescope project](gradescope.project)
 * [learn.duke](learn.duke.project)
 * [lts consulting]
-* [ltc meeting]
-* [coursera conference]
 * [nudge learning analytics]
 * [open edx conference]
 
 ### Done
 
+* [ltc meeting]
+* [coursera conference]
 * [introastro launch]
 * [role changes]
 * [un sustainable development goals]
