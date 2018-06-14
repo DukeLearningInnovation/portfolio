@@ -38,15 +38,18 @@ Decided on WordPress with HP5 questions and a Mailchimp email delivery system.
 * Set up test server for system and test it.
 * Move system to live, permanent server home. 
 * Send first Nudge.
+* Monitor beta test with Dr. Zbig.
+* Evaluate beta test with Dr. Zbig. 
 
 ### In Progress
-* Monitor beta test with Dr. Zbig.
 * Set up system for adding Nudge questions. 
+* Plan Qualtrics-based revision for Nudge backend.
+* Set up Nudge for Zbig's Fall course.
+* Invite 4–5 instructors to participate in Fall (Seth IDed insterested instructors in CDI)
 
 ### To Do
-* Evaluate beta test with Dr. Zbig. 
-* Revise system (if needed).
-* Test revisions (if needed). 
+* Revise system using Qualtrics as backend.
+* Test revisions. 
 * Open up Nudge to larger user group. 
 
 
