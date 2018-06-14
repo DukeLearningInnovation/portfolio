@@ -34,10 +34,10 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [duke sakai service](sakai.service)
 * [nudge](nudge.project)
 * [grammarly pilot]
-* [liulishuo pilot](liolishou.project)
+* [liulishuo pilot](liulishou.project)
 * [stanford civics](stanford.civics.course)
 * [glhlth777](glhlth.777.course)
-* [Russian 95.01]
+* [Russian 95.01](russian.course)
 * [Marine Planning 98.01]
 
 * [sites@duke service]
