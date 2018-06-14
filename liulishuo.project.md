@@ -33,20 +33,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ## yyyy-mm-dd 
 Prepared by @hrvalli
 
-### Added
+### Done
 * [plan to move forward with pilot](https://duke.app.box.com/notes/283631580062)
 * Potential pilot test groups identified
 * Outreach plan developed
 * Evaluation plan established
 * Meeting with Bridget Fletcher (Pratt), Chuhan (Liulishou), and Heather for demo of product.
-* Bridget would like to use grad students starting this coming fall as test group. She'd like to give them a chance to use this over the summer as part of their on-boarding. 
-* Heather will send link to form to Bridget week of 4/9. Bridget will send to upcoming Pratt grad students from China week of 4/23. Heather will send names/emails to Chuhan when quota is reached or 4/30, whichever comes first. 
+* Bridget agreed to use grad students starting this coming fall as test group. She'd like to give them a chance to use this over the summer as part of their on-boarding. 
+* Heather sent link to form to Bridget week of 4/9. Bridget sent link to upcoming Pratt grad students from China. Heather sent 10 names/emails to Chuhan 6/8. 
 
-### Changed
-* 
+### In progress
+* Chuhan will be sending access information to students to signed up. 
 
-### Depreciated
-* 
+### To Do
+* Heather will send assessment form to students at end of pilot.
+* LTS will assess student feedback (possibly with Kim and Elise's input) and determine whether this might be a useful service at scale. 
 
 ### Removed
 * 
