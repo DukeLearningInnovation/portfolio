@@ -9,10 +9,10 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 * [sakai service](sakai.service)
 * [learn.duke](learn.duke.project)
+* [zoom pilot](zoom.integration)
 * [crowdmark integration](crowdmark.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
-* [zoom integration](zoom.integration)
 * [hypothes.is integration](hypothesis.integration)
 * [redshelf integration]
 * [instructional design certificate]
@@ -30,28 +30,26 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 ## Heather
 
 * [coursera service](coursera.support.service)
-* [duke extend service](extend.service)
-* [duke sakai service](sakai.service)
+* [extend service](extend.service)
+* [sakai service](sakai.service)
 * [nudge](nudge.project)
 * [grammarly pilot]
 * [liulishuo pilot](liulishou.project)
-* [stanford civics](stanford.civics.course)
-* [glhlth777](glhlth.777.course)
 * [Russian 95.01](russian.course)
 * [Marine Planning 98.01]
-
 * [sites@duke service]
 
 ### Done
-
+* [stanford civics](stanford.civics.course)
+* [glhlth777](glhlth.777.course)
 * [online workflow sprint](online.workflow.sprint.project)
 * [teachx project]
 
 ## Jolie
 * [sakai support documentation]
-* [duke sakai service](sakai.service)
+* [sakai service](sakai.service)
 * [sakai ui inventory](sakai.ui.inventory.project)
-* [duke sakai mobile]
+* [sakai mobile]
 * [user interface design course]
 
 ### Done
@@ -65,10 +63,9 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 ## Justin
 
 * [coursera service](coursera.support.service)
-* [duke extend service](extend.service)
+* [extend service](extend.service)
 * [MIDS Online Review]
 * [DukeVen DLX]
-* [open edx conference]
 * [gradescope project](gradescope.project)
 * [learn.duke](learn.duke.project)
 * [lts consulting]
@@ -76,6 +73,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 
 ### Done
+* [open edx conference]
 * [extend needs assessment](extend.needs.assessment.project)
 * [ltc meeting]
 * [coursera conference]
@@ -91,13 +89,11 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [learn.duke](learn.duke.project)
 * [sakai skins]
 * [sakai gateway]
-
 * [gradescope project](gradescope.project)
 * [portfolio](/)
 * [MUSER]
 * [sakai faculty reference group]
 * [DUSON LMS Eval](duson.lms.eval.project)
-
 * [open source comparison]
 * [r&d process]
 * [sakai/gitlab integration]
