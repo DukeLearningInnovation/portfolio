@@ -37,10 +37,11 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [liulishuo pilot](liulishou.project)
 * [Russian 95.01](russian.course)
 * [Marine Planning 98.01]
+* [stanford civics](stanford.civics.course)
 * [sites@duke service]
 
 ### Done
-* [stanford civics](stanford.civics.course)
+
 * [glhlth777](glhlth.777.course)
 * [online workflow sprint](online.workflow.sprint.project)
 * [teachx project]
@@ -67,7 +68,6 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [MIDS Online Review]
 * [DukeVen DLX]
 * [gradescope project](gradescope.project)
-* [learn.duke](learn.duke.project)
 * [lts consulting]
 * [nudge learning analytics]
 
