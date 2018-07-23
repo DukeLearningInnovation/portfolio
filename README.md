@@ -6,21 +6,19 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 
 
 ## Chris
-
 * [sakai service](sakai.service)
-* [learn.duke](learn.duke.project)
+* [kits](learn.duke.project)
 * [zoom pilot](zoom.integration)
+* [NextEd 2018]
 * [crowdmark integration](crowdmark.integration)
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
-* [hypothes.is integration](hypothesis.integration)
 * [redshelf integration]
 * [instructional design certificate]
-* [duke extend service](extend.service)
-
 
 ### Done
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
+* [hypothes.is integration](hypothesis.integration)
 * [intedashboard integration]
 * [agile project management]
 * [cisco/sakai integration]
@@ -28,27 +26,34 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [sakai camp](sakai.community)
 
 ## Heather
-
 * [coursera service](coursera.support.service)
-* [extend service](extend.service)
 * [sakai service](sakai.service)
 * [nudge](nudge.project)
-* [grammarly pilot]
-* [liulishuo pilot](liulishou.project)
+* [extend service](extend.service)
+* [NextEd 2018]
 * [Russian 95.01](russian.course)
 * [Marine Planning 98.01]
 * [stanford civics](stanford.civics.course)
+* [grammarly pilot]
+* [liulishuo pilot](liulishou.project)
 * [sites@duke service]
 
 ### Done
-
 * [glhlth777](glhlth.777.course)
 * [online workflow sprint](online.workflow.sprint.project)
 * [teachx project]
 
 ## Jolie
+* [Honor Code sakai integration]
+* [eReserves changes]
+* [DKU Template and Toolkits changes]
+* [Duke Sakai 12.2 upgrade](sakai.service)
+* [Autoname email archive]
+* [Sitemanage web service improvements]
+* [NextEd 2018]
 * [sakai support documentation]
 * [sakai service](sakai.service)
+* [Plagiarism Tutorial]
 * [sakai ui inventory](sakai.ui.inventory.project)
 * [sakai mobile]
 * [user interface design course]
@@ -62,14 +67,14 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [ux graduate course]
 
 ## Justin
-
 * [coursera service](coursera.support.service)
 * [extend service](extend.service)
-* [MIDS Online Review]
 * [DukeVen DLX]
+* [Open edX sunset]
+* [NextEd 2018]
+* [MIDS Online Review]
 * [gradescope project](gradescope.project)
 * [lts consulting]
-* [nudge learning analytics]
 
 
 ### Done
@@ -85,20 +90,26 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [dlx nursing]
 
 ## Michael
-
-* [learn.duke](learn.duke.project)
-* [sakai skins]
-* [sakai gateway]
+* [kits](learn.duke.project)
+* [sakai authorization module upgrade](sakai.service)
+* [sakai/dku siss integration](sakai.service)
+* [toolkits/dku integration]
+* [Learning Innovation Annual Report 17-18]
 * [gradescope project](gradescope.project)
+* [LTS hire]
+* [sakai skins]
+* [duke extend skin]
+* [sakai gateway]
+* [sakai retention policy]
+* [sakai media upload removal]
+* [value of open source]
 * [portfolio](/)
 * [MUSER]
-* [sakai faculty reference group]
 * [DUSON LMS Eval](duson.lms.eval.project)
-* [open source comparison]
 * [r&d process]
 * [sakai/gitlab integration]
 * [sakai community involvement](sakai.community)
-* [duke extend skin]
+
 
 ### Done
 * [ece651.sp18 sakai/box integration](ece651.sp18.project)
@@ -115,14 +126,14 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [nursing best of breed assessment tools]
 
 ## Backlog
-
 * [Broome Course](broome.course)
 * [Zychowicz DLX]
-* [authorea \(ONR grant/gitpaper\)]
+* [ONR grant/gitpaper]
 * [voicethread service]
 * [warpwire service]
 * [toolkits service]
 * [piazza service]
+* [open source comparison]
 * [CoCalc exploration]
 * [TeachFX exploration]
 * [docs.sakaiproject.org]
