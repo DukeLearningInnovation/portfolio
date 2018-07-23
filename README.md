@@ -37,6 +37,8 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [grammarly pilot]
 * [liulishuo pilot](liulishou.project)
 * [sites@duke service]
+* [MIDS Sakai Course Creation]
+* [Qualtrics/Coursera integration for ALICE]
 
 ### Done
 * [glhlth777](glhlth.777.course)
