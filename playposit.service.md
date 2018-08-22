@@ -35,7 +35,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 Prepared by @user
 
 ### Added
-* 
+* Updated Sites@Duke PlayPosit embedding documentation duke.is/2k2CPn
 
 ### Changed
 * 
