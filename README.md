@@ -81,10 +81,10 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [extend service](extend.service)
 * [DukeVen DLX]
 * [Open edX sunset]
-* [NextEd 2018]
-* [gradescope project](gradescope.project)
+* [gradescope project](gradescope.project.md)
 * [lts consulting]
-
+* [kits metrics functional lead]
+* [Coursera for Duke Alumni]
 
 ### Done
 
@@ -99,6 +99,7 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [id2id]
 * [it lead]
 * [dlx nursing]
+* [NextEd 2018]
 
 ## Michael
 
