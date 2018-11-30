@@ -1,6 +1,6 @@
 ---
 name: Project template
-about: Adding a project to LTS
+about: Add a project to LTS
 
 ---
 
