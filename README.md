@@ -9,15 +9,16 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [sakai service](sakai.service)
 * [kits](learn.duke.project)
 * [zoom pilot](zoom.integration)
-* [NextEd 2018]
 * [crowdmark integration](crowdmark.integration)
+* [sakai gateway]
 * [modernize sakai forums](sakai.community)
 * [playposit service](playposit.service)
-* [redshelf integration]
-* [instructional design certificate]
 
 ### Done
 
+* [instructional design certificate]
+* [redshelf integration]
+* [NextEd 2018]
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
 * [hypothes.is integration](hypothesis.integration)
 * [intedashboard integration]
@@ -32,15 +33,15 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [sakai service](sakai.service)
 * [nudge](nudge.project)
 * [extend service](extend.service)
-* [NextEd 2018]
 * [Physicians thrive]
 * [Russian 95.01](russian.course)
 * [Marine Planning 98.01]
-* [stanford civics](stanford.civics.course)
 * [sites@duke service]
 
 ### Done
 
+* [stanford civics](stanford.civics.course)
+* [NextEd 2018]
 * [Qualtrics/Coursera integration for ALICE]
 * [MIDS Sakai Course Creation]
 * [grammarly pilot]
@@ -52,21 +53,21 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 ## Jolie
 
 * [Honor Code sakai integration]
-* [eReserves changes]
 * [syllabus to lessons conversion]
-* [Duke Sakai 12.3 upgrade](sakai.service)
 * [Autoname email archive]
 * [Sitemanage web service improvements]
-* [NextEd 2018]
-* [sakai support documentation]
 * [sakai service](sakai.service)
 * [Plagiarism Tutorial]
 * [sakai ui inventory](sakai.ui.inventory.project)
 * [sakai mobile]
-* [user interface design course]
 
 ### Done
 
+* [user interface design course]
+* [NextEd 2018]
+* [sakai support documentation]
+* [Duke Sakai 12.3 upgrade](sakai.service)
+* [eReserves changes]
 * [DKU Template and Toolkits changes]
 * [sakai community ngdle discussions]
 * [duke sakai 12.x upgrade](sakai.12.upgrade.project)
@@ -104,24 +105,21 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 ## Michael
 
 * [kits](learn.duke.project)
-* [gradescope project](gradescope.project)
 * [LTS hire]
+* [portfolio](/)
 * [sakai skins]
-* [duke extend skin]
-* [sakai gateway]
 * [sakai retention policy]
 * [sakai media upload removal]
 * [value of open source]
-* [portfolio](/)
-* [MUSER]
 * [DUSON LMS Eval](duson.lms.eval.project)
-* [r&d process]
-* [sakai/gitlab integration]
-* [sakai community involvement](sakai.community)
-
 
 ### Done
 
+* [sakai/gitlab integration]
+* [sakai community involvement](sakai.community)
+* [r&d process]
+* [MUSER]
+* [duke extend skin]
 * [toolkits/dku integration]
 * [Learning Innovation Annual Report 17-18]
 * [sakai authorization module upgrade](sakai.service)
@@ -157,7 +155,5 @@ Best viewed at [https://dukelearninginnovation.github.io/portfolio](https://duke
 * [wordpress lti]
 * [domain of one's own exploration]
 * [duke extend payment gateway]
-* [compsci408.fa18 collaborations]
 * [library services/sakai integration]
-* [artificial intelligence events fy19]
 * [cengage + OER textbook subscription]
