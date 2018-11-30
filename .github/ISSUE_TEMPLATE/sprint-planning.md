@@ -1,6 +1,6 @@
 ---
 name: Sprint Planning
-about: Describe this issue template's purpose here.
+about: Add a sprint planning
 
 ---
 
