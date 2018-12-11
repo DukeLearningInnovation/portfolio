@@ -1,6 +1,9 @@
 ---
 name: Project
 about: Add a project to LTS
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

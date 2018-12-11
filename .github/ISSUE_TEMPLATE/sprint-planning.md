@@ -1,6 +1,9 @@
 ---
 name: Sprint Planning
 about: Add a sprint planning
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
